@@ -1,0 +1,2 @@
+# Opamp-developer-kit-v1
+Opamp developer kit with lmv321. THIS PROJECT WAS MADE FOR A PRIVATE COMPANY. SO ONLY THE SCREENSHOT IS UPLOADED.
